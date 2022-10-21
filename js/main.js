@@ -4,7 +4,7 @@ var game;
 var gameOptions = {
 
     // slices (prizes) placed in the wheel
-    slices: 6,
+    slices: 10,
 
     // prize names, starting from 12 o'clock going clockwise
     slicePrizes: [
