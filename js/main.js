@@ -14,7 +14,6 @@ var gameOptions = {
         "🎉 Voucher WAKAME_SOFTWARE",
         "🎉 Bút chì",
         "🎉 Voucher WAKAME50",
-        "🎉 Túi xách",
         "🎉 Gôm tẩy",
         "🎉 Sticker",
         "🎉 Voucher WAKAME100"
